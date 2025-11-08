@@ -1,7 +1,7 @@
 # 🚆 Online Train Reservation System  
 ### 💼 Internship Project — OASIS INFOBYTE (Task 1)
 
-![Train Reservation Banner](https://i.imgur.com/vDyTwkJ.png)
+![Train Reservation Banner](https://github.com/rakshiii2605/OIBSIP1/blob/main/Tain%20reservation.jpg)
 
 ---
 
